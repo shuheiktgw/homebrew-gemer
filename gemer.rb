@@ -5,7 +5,7 @@ class Gemer < Formula
   version 'v0.0.1'
 
   url 'https://github.com/shuheiktgw/gemer/releases/download/0.0.1/gemer_v0.0.1_darwin_amd64.zip'
-  sha256 '8b841e8d2398d4dbaf0b1e4088211c5a4781c12212b3eb6ee3736314ed7d1898'
+  sha256 'c59729923f23bdf90505283f92ae6ac81f90d94ec6a9df916b41daa843590f31'
 
   def install
     bin.install 'gemer'
